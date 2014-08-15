@@ -8,8 +8,14 @@
 2. "hubot-shuzo" を external-scripts.json に追加
 4. Reboot Hubot
 
+## Configuration:
+
+**HUBOT_SHUZO_WORDS**
+
+修造が反応するワードの正規表現
+
 ## Commands
 
 ```
-<無理|むり|ムリ> - 修造画像をランダムに返す
+<修造が反応するワード> - 修造画像をランダムに返す
 ```
