@@ -1,6 +1,6 @@
 {
   "name": "hubot-shuzo",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hubot-scripts returns Shuzo image",
   "main": "src/index.coffee",
   "scripts": {
