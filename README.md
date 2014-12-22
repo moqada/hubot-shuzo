@@ -18,8 +18,13 @@
 
 修造が反応しないルームリスト。カンマ区切りで複数指定
 
+**HUBOT_SHUZO_DISABLE_MINUTES**
+
+`shuzo disable` で修造が反応しない時間
+
 ## Commands
 
 ```
 <修造が反応するワード> - 修造画像をランダムに返す
+hubot shuzo disable - 修造を一定時間黙らせる
 ```
