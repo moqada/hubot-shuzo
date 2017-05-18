@@ -1,5 +1,7 @@
 # hubot-shuzo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/moqada/hubot-shuzo.svg)](https://greenkeeper.io/)
+
 暑くなければ夏じゃない。熱くなければ人生じゃない！
 
 ## Installation
